@@ -29,11 +29,8 @@
 </div>
 
 <div class="stats">
-  <h1>Chakane</h1>
-  
   
 </div>
-<a rel="stylesheet" href="readme.css">
 </body>
 </html>
 
