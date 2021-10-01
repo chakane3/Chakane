@@ -3,7 +3,7 @@
   Financial technology student at NJIT 📚<br>
   Currently looking for work to better my skills 👨🏾‍💻 <br>
   (email me @ chakanezshegog@gmail.com)<br>
-  Interested in Web(JS) and Mobile development(Swift)<br>
+  Interested in Web(JS) and Mobile(Swift) development<br>
   Building a mobile app 📱 to find cheap ammunition prices 
 </p>
 
