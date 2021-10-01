@@ -1,5 +1,8 @@
+<html>
+
 <b>Hello people! 🤝 </b>
 
+<body>
 
 <div class="intro">
 <p>
@@ -26,7 +29,12 @@
 </div>
 
 <div class="stats">
-  <p>Hello</p>
+  <h1>Chakane</h1>
+  
+  
 </div>
+<a rel="stylesheet" href="readme.css">
+</body>
+</html>
 
 
