@@ -1,9 +1,10 @@
-<b>Hello all!</b>
+<b>Hello people! 🤝 </b>
 <p>
-  Currently a financial technology student at NJIT 📚<br>
+  Financial technology student at NJIT 📚<br>
   Currently looking for work to better my skills 👨🏾‍💻 <br>
   (email me @ chakanezshegog@gmail.com)<br>
   Interested in Web(JS) and Mobile development(Swift)<br>
+  Building a mobile app 📱 to find cheap ammunition prices 
 </p>
 
 <p>
