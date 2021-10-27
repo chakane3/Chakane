@@ -8,7 +8,8 @@
 <p>
   Financial technology student based in New Jersey 📚<br>
   Interested in Web(JS/Py) and Mobile(Swift) development 👨🏾‍💻<br>
-  Building a mobile app 📱 to <a href="https://github.com/chakane3/crispy-computing-machine">find cheap ammunition prices</a>
+  Building a mobile app 📱 to <a href="https://github.com/chakane3/crispy-computing-machine">find cheap ammunition prices</a><br>
+  
   
 </p>
 </div>
