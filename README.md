@@ -24,6 +24,9 @@
   <li>
     Looking for  help with <a href=""> data structures and algorithms</a>? 
   </li>
+  <li>
+    Learn how to build a <a href="https://github.com/chakane3/nn-credit-data">neural network</a>
+  </li>
   </ul>
   
 </p>
