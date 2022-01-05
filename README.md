@@ -6,11 +6,10 @@
 
 <div class="intro">
 <p>
-  Financial technology student based in New Jersey 📚<br>
-  Interested in Web(JS/Py) and Mobile(Swift) development 👨🏾‍💻<br>
-  Building a mobile app 📱 to <a href="https://github.com/chakane3/crispy-computing-machine">find cheap ammunition prices</a><br>
-  
-  
+ Graduate from New Jersey Instutite of Technology 👨🏾‍💻<br>
+  Interested in iOS development and data science. 
+  Here to document my notes and build cool stuff!
+ <br>
 </p>
 </div>
 
