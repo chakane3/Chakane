@@ -6,9 +6,9 @@
 
 <div class="intro">
 <p>
- Graduate from New Jersey Instutite of Technology 👨🏾‍💻<br></br>
- Interested in iOS development and data science. <br></br>
- Here to document my notes and build cool stuff!<br></br>
+ Graduate from New Jersey Instutite of Technology 👨🏾‍💻<br>
+ Interested in iOS development and data science. <br>
+ Here to document my notes and build cool stuff!<br>
  <br>
 </p>
 </div>
@@ -21,6 +21,7 @@
   <ul>
   <li> Having trouble what kind of guitar amplifier youre looking for? Heres a <a href="https://spartanmusic.co.uk/blogs/smblog/beginner-guide-to-tubes-valves-in-amps-audio"> guide to Tubes & Valves in Amps & Audio</a> </li>
   <li>
+   iOS to search your favorite artist's music catalog<a href="https://github.com/chakane3/MusixMatch-Artist-Catalog-Search">(link)</a>
   </li>
   <li>
     Learn how to build a <a href="https://github.com/chakane3/nn-credit-data">neural network</a>
