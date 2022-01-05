@@ -6,9 +6,9 @@
 
 <div class="intro">
 <p>
- Graduate from New Jersey Instutite of Technology 👨🏾‍💻<br>
-  Interested in iOS development and data science. 
-  Here to document my notes and build cool stuff!
+ Graduate from New Jersey Instutite of Technology 👨🏾‍💻<br></br>
+ Interested in iOS development and data science. <br></br>
+ Here to document my notes and build cool stuff!<br></br>
  <br>
 </p>
 </div>
