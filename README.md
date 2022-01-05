@@ -21,7 +21,6 @@
   <ul>
   <li> Having trouble what kind of guitar amplifier youre looking for? Heres a <a href="https://spartanmusic.co.uk/blogs/smblog/beginner-guide-to-tubes-valves-in-amps-audio"> guide to Tubes & Valves in Amps & Audio</a> </li>
   <li>
-    Looking for  help with <a href=""> data structures and algorithms</a>? 
   </li>
   <li>
     Learn how to build a <a href="https://github.com/chakane3/nn-credit-data">neural network</a>
