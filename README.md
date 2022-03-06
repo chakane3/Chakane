@@ -21,9 +21,11 @@
 <img src="https://img.shields.io/badge/-MySQL-yellowgreen"/>
 <img src="https://img.shields.io/badge/-XCode-grey"/>
 <img src="https://img.shields.io/badge/-node.js-critical"/>
+ <img src="https://img.shields.io/badge/-Python-yellow"/>
 <img src="https://img.shields.io/badge/-express-brightgreen"/><br>
 <img src="https://img.shields.io/badge/-Postman-lightgrey"/>
 <img src="https://img.shields.io/badge/-Burpsuite-yellow"/>
+<img src="https://img.shields.io/badge/-Jupyter_Notebook-orange"/>
 
 
 <div class="interests">
@@ -43,9 +45,9 @@
 </div>
 
 <div class="stats">
-<!--  <p align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chakane3&bg_color=807473&text_color=000000title_color=e4626b&border_color=000000&icon_color=000000&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
- </p> -->
+ <p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakane3&?exclude_repo=nn-credit-data,natural-language-processing-for-finance&hide=jupyter%20notebook&layout=compact" />
+ </p>
   
 </div>
 </body>
