@@ -26,9 +26,13 @@
 <img src="https://img.shields.io/badge/-Postman-lightgrey"/>
 <img src="https://img.shields.io/badge/-Burpsuite-yellow"/>
 <img src="https://img.shields.io/badge/-Jupyter_Notebook-orange"/>
+<img src="https://img.shields.io/badge/-objective_C-blue"/>
+ 
+ <p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakane3&?exclude_repo=nn-credit-data,natural-language-processing-for-finance&hide=jupyter%20notebook,objective-c&layout=compact&langs_count=12" />
+ </p>
 
 
-<div class="interests">
 <p>
   <h1>Things I find important/interesting</h1><br>
   
@@ -42,14 +46,9 @@
   </ul>
   
 </p>
-</div>
 
-<div class="stats">
- <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakane3&?exclude_repo=nn-credit-data,natural-language-processing-for-finance&hide=jupyter%20notebook&layout=compact" />
- </p>
-  
-</div>
+
+
 </body>
 </html>
 
