@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/-linux-grey"/>
  
  <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakane3&?exclude_repo=nn-credit-data,natural-language-processing-for-finance&hide=jupyter%20notebook,objective-c,SCSS,R,Ruby,Shell&layout=compact&langs_count=12" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakane3&?exclude_repo=nn-credit-data,natural-language-processing-for-finance,swiftNotes&hide=jupyter%20notebook,objective-c,SCSS,R,Ruby,Shell&layout=compact&langs_count=12" />
  </p>
 
 
