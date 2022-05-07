@@ -8,8 +8,11 @@
  Graduate from New Jersey Instutite of Technology 👨🏾‍💻<br>
  Interested in all things tech.<br>
  Here to document my notes and build cool stuff!<br>
+ <p align="center">Check out my website <a href="https://www.chakane.com">chakane.com<a/></p>
  <br>
 </p>
+ 
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/-html-orange"/>
@@ -47,6 +50,8 @@
   </ul>
   
 </p>
+ 
+ 
 
 
 
