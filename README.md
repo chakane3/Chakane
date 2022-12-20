@@ -33,6 +33,8 @@
 <img src="https://img.shields.io/badge/-linux-grey"/>
 <!--  
  <p align="center">
+
+<script src="https://gist.github.com/chakane3/e7da9f20aed85c5f356de3e1ae352318.js"></script>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakane3&?exclude_repo=nn-credit-data,natural-language-processing-for-finance,swiftNotes&hide=jupyter%20notebook,objective-c,SCSS,R,Ruby,Shell&layout=compact&langs_count=12" />
  </p> -->
 <!-- 
