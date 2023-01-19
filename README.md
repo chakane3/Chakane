@@ -8,7 +8,7 @@
  Graduate from New Jersey Instutite of Technology 👨🏾‍💻<br>
  Interested in all things tech.<br>
  Here to document my notes and build cool stuff!<br>
- <p align="center">Check out my website <a href="">chakane.com<a/></p>
+ <p align="center">Check out my website <a href="chakane.com">chakane.com<a/></p>
  <br>
 </p>
  
